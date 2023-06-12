@@ -1,2 +1,4 @@
 #!/bin/bash
-rev
+
+read input
+echo "$input" | rev
